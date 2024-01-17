@@ -11,8 +11,8 @@
 
 To run the app locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/yuzakki/Fast-Pizza-React.git`
-2. Navigate to the project directory: `cd Fast-Pizza-React`
+1. Clone the repository: `git clone https://github.com/FelixAshong/Pizza-Ordering.git`
+2. Navigate to the project directory: `cd Pizza-Ordering`
 3. Install dependencies: `npm install`
 
 ## Usage
