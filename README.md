@@ -1,4 +1,4 @@
-# Fast React Pizza Co. | Full React Project
+# Fast Pizza  | Full React Project
 
 ![Screenshot](/public/screenshots/screenshot.jpeg)
 ![Screenshot](/public/screenshots/1.jpeg)
